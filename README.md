@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansari-in&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
+<!-- README.md for ansari-in (front display) -->
 <h1 align="center">Hi 👋, I'm Ansari Intesab</h1>
 <h3 align="center">Full Stack Web Developer • Self-taught • MCA Student</h3>
 
@@ -17,114 +10,62 @@
 
 ---
 
-## 🔎 About Me
-
-I’m a self-taught **Full Stack Web Developer** and **Cybersecurity enthusiast** from Dhule, Maharashtra.  
-I learned web development while working at a local cyber shop (Taqdis Computers) — building real projects for clients taught me practical skills faster than tutorials alone. I work with **Next.js, Node.js, PHP, WordPress, MongoDB, MySQL** and deploy small apps using free-tier hosting (Vercel, Render, Firebase). I also practice CTF-style problems on TryHackMe to strengthen my security skills.
-
-> Quick snapshot: HTML → CSS → JS → PHP/MySQL → Node/Express/MongoDB → Next.js. I prefer building practical projects that solve real problems.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
 ## 🔗 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/ansari-intesab" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" height="36"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/ansari-in" target="_blank" rel="noreferrer">
-    <img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/zedxy" target="_blank" rel="noreferrer">
-    <img alt="TryHackMe" src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" width="40" height="40"/>
-  </a>
+  <!-- add more social icons as needed -->
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
-## 💼 Looking for
-- Collaborative projects where I can contribute with web dev and DevOps basics.  
-- Opportunities to work on data-driven, real-world web apps or security-focused projects.  
-- Mentorship and learning-collabs to deepen my cybersecurity and backend skills.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
-## 🛠️ Languages & Tools
-
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFA611.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
-## 📁 Projects (highlights)
-
-> Replace links/screenshots as you deploy new versions.
-
-- **I-Card Generator** — Next.js, MongoDB, Cloudinary  
-  Teacher/student ID generator with QR code, image upload, JWT auth.  
-  🔗 `https://intesab.live` (project details / portfolio)
-
-- **Taqdis Computers Portal** — PHP / Next.js  
-  Institute portal with login, quizzes, and content management.
-
-- **Ladki Bahin Yojna Portal** — Next.js, MongoDB  
-  Extracted PDF data → searchable portal showing application status.
-
-- **StudyDocs (MCA Assignments)** — Next.js, Nextra  
-  Markdown → documentation site for assignments and live iframes.
-
-- **News App** — Node.js, Express  
-  Category-wise news using NewsAPI.
-
-- **CookBook** — Angular (hosted on Firebase)  
-  Recipe app using DummyJSON API.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansari-in&show_icons=true&locale=en" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansari-in&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansari-in&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansari-in/ansari-in/main/Line.gif" alt="line" />
-</p>
-
-## 📫 Contact
-
-- Email: ansariintesab048@gmail.com  
-- Portfolio: https://www.intesab.live  
-- TryHackMe: https://tryhackme.com/p/zedxy  
-- Phone (optional): +91 89832 45824
 
 ---
 
-Source: About Me (uploaded) :contentReference[oaicite:1]{index=1}
+## 🧭 Quick Journey (Snapshot)
+I learned web development while working at a local computer shop (Taqdis Computers) and teaching myself from YouTube tutorials (CodeWithHarry, WsCubeTech, and others). I started with **HTML → CSS → JavaScript**, moved to **PHP + MySQL** for real client work, then learned **Node.js / Express / MongoDB**, and finally adopted **Next.js** as my preferred framework.  
+I build practical projects (hosting tools, quiz systems, i-card generator, searchable portals) and host them using free services and Vercel / Render.  
+
+> For the full, detailed story (timeline + projects) check the **My Journey** section below or open the live page: **https://ansari-in.github.io/my-journey/**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="30" height="30"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
+  <!-- add or remove icons as you prefer -->
+</p>
+
+---
+
+## 📁 Projects (front display — placeholders)
+
+> Replace `[Project Link Coming Soon]` with actual links or screenshots.
+
+| Project                  |                         Tech | Short                                                     |                            |
+| ------------------------ | ---------------------------: | --------------------------------------------------------- | -------------------------- |
+| I-Card Generator         | Next.js, MongoDB, Cloudinary | Teacher/student ID generator — image upload, QR, JWT auth | [Project Link Coming Soon] |
+| Taqdis Computers Portal  |                PHP / Next.js | Institute portal with login & quizzes                     | [Project Link Coming Soon] |
+| Ladki Bahin Yojna Portal |             Next.js, MongoDB | PDF data → searchable portal with status                  | [Project Link Coming Soon] |
+| StudyDocs                |              Next.js, Nextra | Markdown → documentation site (assignments)               | [Project Link Coming Soon] |
+| News App                 |             Node.js, Express | Category-wise news using NewsAPI                          | [Project Link Coming Soon] |
+| CookBook                 |                      Angular | Recipes from DummyJSON API                                | [Project Link Coming Soon] |
+| Portfolio                |             Next.js, MongoDB | Dynamic portfolio fed from DB                             | [Project Link Coming Soon] |
+
+---
+
+## 📌 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansari-in&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ansari-in&show_icons=true&locale=en" alt="github stats" />
+</p>
