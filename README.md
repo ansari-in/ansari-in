@@ -3,8 +3,8 @@
 <h3 align="center">Full Stack Web Developer • Self-taught • MCA Student</h3>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://www.intesab.live">intesab.live</a> &nbsp; • &nbsp;
-  📄 Resume: <a href="https://intesab.live/uploads/resume.pdf">View resume.pdf</a> &nbsp; • &nbsp;
+  🌐 Portfolio: <a href="https://www.intesab.me">intesab.me</a> &nbsp; • &nbsp;
+  📄 Resume: <a href="https://intesab.me/uploads/resume.pdf">View resume.pdf</a> &nbsp; • &nbsp;
   📫 Email: <strong>ansariintesab048@gmail.com</strong>
 </p>
 
