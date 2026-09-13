@@ -249,13 +249,44 @@ Dynamic Laravel-based portal for online government scheme applications.
 
 **Built with:** Laravel • PHP • MySQL • JavaScript • Bootstrap
 
-# GitHub Analytics
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=221138973" target="_blank">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=221138973&image_size=auto&color_scheme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=221138973&image_size=auto&color_scheme=light"
+  />
+  <img
+    src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=221138973&image_size=auto&color_scheme=dark"
+    alt="GitHub Analytics Dashboard"
+    width="800"
+  />
+</picture>
+
+</a>
+
+<br><br>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansari-in&theme=transparent&hide_border=true" />
-</p>
 
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ansari-in&theme=transparent&hide_border=true"
+alt="GitHub Streak"
+width="800"
+/>
+
+</div>
+
+<br>
 
 
 # Highlights
